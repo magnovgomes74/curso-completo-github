@@ -1,0 +1,23 @@
+{
+  "name": "curso-completo-github",
+  "version": "1.0.0",
+  "description": "Praticando os estudos do \"Curso completo de Git e GitHub - Básico ao Avançado\" Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnovgomes74/curso-completo-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnovgomes74/curso-completo-github/issues"
+  },
+  "homepage": "https://github.com/magnovgomes74/curso-completo-github#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
